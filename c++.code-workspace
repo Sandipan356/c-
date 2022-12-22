@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "c++",
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.errorSquiggles": "Disabled",
+		"files.associations": {
+			"*.py": "c",
+			"iostream": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"random": "cpp"
+		}
+	}
+}
